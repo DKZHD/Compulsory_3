@@ -1,1 +1,2 @@
 D:\Algorithms and Data Structure\StandardTreeLib\x64\Debug\StandardTreeLib.exe
+D:\Algorithms and Data Structure\Compulsory_3\x64\Debug\StandardTreeLib.exe

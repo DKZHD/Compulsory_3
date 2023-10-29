@@ -19,7 +19,7 @@ struct Node
 template <typename T>
 struct TreeRoot
 {
-	Node<T>* Root;
+	
 
 	//Default Constructor
 	TreeRoot(T Value)
@@ -151,5 +151,6 @@ struct TreeRoot
 private:
 	std::vector<Node<T>*> Nodes;
 	int Depth = 0;
+	Node<T>* Root;
 };
 
