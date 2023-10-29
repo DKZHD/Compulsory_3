@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Algorithms and Data Structure\StandardTreeLib\Graph.h(78,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Algorithms and Data Structure\StandardTreeLib\Graph.h(58,1): message : while compiling class template member function 'int Graph<int>::getSize(void)'
+D:\Algorithms and Data Structure\StandardTreeLib\Graph.h(102,10): message : see reference to function template instantiation 'int Graph<int>::getSize(void)' being compiled
+D:\Algorithms and Data Structure\StandardTreeLib\main.cpp(15,13): message : see reference to class template instantiation 'Graph<int>' being compiled
+  StandardTreeLib.vcxproj -> D:\Algorithms and Data Structure\StandardTreeLib\x64\Debug\StandardTreeLib.exe
